@@ -1,0 +1,6 @@
+C:\Users\daeno\Documents\Dev\Proyectos C#\MatrixPOO\MatrixPOO\bin\Debug\MatrixPOO.exe
+C:\Users\daeno\Documents\Dev\Proyectos C#\MatrixPOO\MatrixPOO\bin\Debug\MatrixPOO.pdb
+C:\Users\daeno\Documents\Dev\Proyectos C#\MatrixPOO\MatrixPOO\obj\Debug\MatrixPOO.csproj.AssemblyReference.cache
+C:\Users\daeno\Documents\Dev\Proyectos C#\MatrixPOO\MatrixPOO\obj\Debug\MatrixPOO.csproj.CoreCompileInputs.cache
+C:\Users\daeno\Documents\Dev\Proyectos C#\MatrixPOO\MatrixPOO\obj\Debug\MatrixPOO.exe
+C:\Users\daeno\Documents\Dev\Proyectos C#\MatrixPOO\MatrixPOO\obj\Debug\MatrixPOO.pdb
